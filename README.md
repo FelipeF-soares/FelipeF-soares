@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*82ZxhhdxfBH-zcljwwft0g.png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://pic1.zhimg.com/v2-2367a185b10f3161aeac47bd6ee57e2e_1440w.jpg?source=172ae18b" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"></p>&nbsp;
