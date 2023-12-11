@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://pic1.zhimg.com/v2-2367a185b10f3161aeac47bd6ee57e2e_1440w.jpg?source=172ae18b" />
+<img align="center" style="margin-bottom:100px" width=100% src="" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"></p>&nbsp;
@@ -40,7 +40,6 @@
 #### Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Workstation Tools:
