@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Felipe!
+With over 15 years of experience in the technology sector, I work as an IT Support Specialist in the public sector, providing strategic support and optimizing technological environments. Over the past three years, I have been focusing on software development, expanding my expertise within the .NET ecosystem.
 
+I have experience in developing web applications using ASP.NET Core MVC, integrating HTML, CSS, JavaScript, and Bootstrap, as well as building REST APIs with .NET Core and Angular. I also develop desktop applications using Windows Forms and C#.
+
+My work includes data persistence through Entity Framework, integrating MySQL and SQL Server. I am familiar with Git and GitFlow for version control and collaboration and apply CI/CD practices using Azure DevOps.
+
+My technical background includes expertise in Windows NT and Linux operating systems, ensuring support, security, and performance across different environments.
+
+Currently, I am in my final year of a Software Engineering degree and hold a technical degree in electronics.
+
+I am ready to contribute with efficient and scalable solutions, adding value to new projects and teams! 🚀
  &nbsp;
  &nbsp;
 
